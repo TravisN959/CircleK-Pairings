@@ -12,5 +12,9 @@ package circle.k.pairing;
 public class Member {
     String name;
     int family;
+    static String getFamName(int famInt)
+    {
+        return "N/A"
+    }
     
 }
