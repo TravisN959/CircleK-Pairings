@@ -27,6 +27,7 @@ public class CircleKPairing {
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
       
+		//Stores Information for families and members through input 
         ArrayList<String> families = new ArrayList<String>();
         ArrayList<Member> memberList = new ArrayList<Member>();
         
